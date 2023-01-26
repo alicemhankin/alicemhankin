@@ -1,6 +1,6 @@
 <body style="background-color:grey;">
   
-  Hi! I'm Alice Hankin and my pronouns are she/her ✨
+Hi! I'm Alice Hankin and my pronouns are she/her ✨
 
 Here is where I keep the projects I have worked on as a statistics student at the University of Auckland.
 
@@ -8,10 +8,9 @@ My coolest visualisations are for [the saddlepoint approximation](saddlepoint.sh
 
 I am most proud of my masters dissertation found [here]() - this details the development of the saddlepoint visualisation application. My honours project found [here]() details how I used high performance computing and Bayesian models to model terrorism events in Iraq. 
 
-Reach me at alicemirandahankin@gmail.com :)
-
-
-
+  ```html
+<p style="color:red">This is a paragraph.</p>
+```
 
 
 <!--
