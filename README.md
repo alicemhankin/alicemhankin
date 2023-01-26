@@ -1,8 +1,16 @@
 Hi! I'm Alice Hankin and my pronouns are she/her ✨
 
-Here are a few projects I have worked on over my time at the University of Auckland.
+Here is where I keep the projects I have worked on as a statistics student at the University of Auckland.
+
+My coolest visualisations are for [the saddlepoint approximation](saddlepoint.shinyapps.io/visualise) and [branching processes](https://alicemh.shinyapps.io/multitype_2/). These were both produced in R Shiny.
+
+I am most proud of my masters dissertation found [here]() - this details the development of the saddlepoint visualisation application. My honours project found [here]() details how I used high performance computing and Bayesian models to model terrorism events in Iraq. 
 
 Reach me at alicemirandahankin@gmail.com :)
+
+
+
+
 
 <!--
 **alicemhankin/alicemhankin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
