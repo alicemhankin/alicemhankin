@@ -1,4 +1,4 @@
-Alice Hankin (she/her)
+Hi! I'm Alice Hankin and my pronouns are she/her ✨
 
 Here are a few projects I have worked on over my time at the University of Auckland.
 
