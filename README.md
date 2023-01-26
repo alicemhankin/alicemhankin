@@ -6,12 +6,7 @@ Here is where I keep the projects I have worked on as a statistics student at th
 
 My coolest visualisations are for [the saddlepoint approximation](saddlepoint.shinyapps.io/visualise) and [branching processes](https://alicemh.shinyapps.io/multitype_2/). These were both produced in R Shiny and I'd love you to check them out.
 
-I am most proud of my masters dissertation found [here]() - this details the development of the saddlepoint visualisation application. My honours project found [here]() details how I used high performance computing and Bayesian models to model terrorism events in Iraq. 
-
-  ```html
-<p style="color:red">This is a paragraph.</p>
-```
-
+I am most proud of my masters dissertation found [here]() - this details the development of the saddlepoint visualisation application. My honours project found [here]() details how I used high performance computing and Bayesian models to model terrorism events in Iraq.
 
 <!--
 **alicemhankin/alicemhankin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
