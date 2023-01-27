@@ -4,7 +4,7 @@
 
 📊 Here is where I keep the projects I have worked on as a statistics student at the University of Auckland.
 
-🔗 My coolest visualisations are for [the saddlepoint approximation](saddlepoint.shinyapps.io/visualise) and [branching processes](https://alicemh.shinyapps.io/multitype_2/). These were both produced in R Shiny.
+🔗 My coolest visualisations are for [the saddlepoint approximation](https://saddlepoint.shinyapps.io/visualise) and [branching processes](https://alicemh.shinyapps.io/multitype_2/). These were both produced in R Shiny.
 
 🏆 I am most proud of my masters dissertation found [here](https://rawcdn.githack.com/alicemhankin/saddlepoint-visualisation/6e0f6ce927e688ddf3d2233c72e6fdb879dd118f/report.pdf) - this details the development of the saddlepoint visualisation application. My honours project found [here](https://rawcdn.githack.com/alicemhankin/inlabru-terrorism/e87dac2084c08b4eb11b26efec2273414a96f282/Final%20Report.pdf) details how I used Bayesian techniques (log-gaussian Cox models created using INLA) to model terrorist events in Iraq.
 
