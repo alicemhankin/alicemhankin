@@ -1,6 +1,6 @@
 <body style="background-color:grey;">
   
-✨ Hi! I'm Alice Hankin and my pronouns are she/her/.
+✨ Hi! I'm Alice Hankin and my pronouns are she/her.
 
 📊 Here is where I keep the projects I have worked on as a statistics student at the University of Auckland.
 
