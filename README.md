@@ -2,7 +2,7 @@
   
 ✨ Hi! I'm Alice and my pronouns are she/her. I'm currently working as a medical statistician at Leeds Institute of Clinical Trials Research.
 
-📊 Here is where I keep the projects I have worked on as a statistics student at the University of Auckland.
+📊 This is where I keep the projects I have worked on as a statistics student at the University of Auckland.
 
 🔗 My coolest visualisations are for [the saddlepoint approximation](https://saddlepoint.shinyapps.io/visualise) and [branching processes](https://alicemh.shinyapps.io/multitype_2/). These were both produced in R Shiny.
 
